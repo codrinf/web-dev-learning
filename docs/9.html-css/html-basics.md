@@ -15,18 +15,20 @@ Spre exemplu:
 <button id="main-button" class="primary-button">Click me</button>
 ``` 
 
-Elementul `button` este delimitat de un tag de inceput (`<button`) si unul de final (`</button>`)
-Totodata, are attributul `id` cu valoarea `'main-button'` si `class` cu valorea `'primary-button`.Bazandu-ne pe `id`, vom putea interactiona cu butonul, daca va trebui sa il ascundem, spre exemplu.
+Elementul `button` este delimitat de un tag de inceput (`<button>`) si unul de final (`</button>`)
+
+Totodata, are attributul `id` cu valoarea `'main-button'` si `class` cu valoarea `'primary-button`. Bazandu-ne pe `id`, vom putea interactiona cu butonul, daca va trebui sa il ascundem, spre exemplu.
 
 Un alt lucru important este ca pe langa afisarea de continut, HTML este folosit si pentru a capta data de la utilizator: fie cand apasa pe un buton, fie intr-un form (un fomular de inserare de date).
 In cazul form-urilor, cele mai intalnite tag-uri sunt: `<form>, <input>, <textarea>, <select>`.
 
 ## Test familiarizare
-Parcurge [acest test](test1) pentru a te familiariza cu subiectul.
+~~Parcurge [acest test](test1) pentru a te familiariza cu subiectul.~~
+
+TODO
 
 
 ## Resurse
-
 
 ### Video:
 * [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE) *Recomand sa folositi Visual Studio Code in loc de Sublime, asa cum este indicat in tutorial. 
@@ -43,21 +45,16 @@ Parcurge [acest test](test1) pentru a te familiariza cu subiectul.
 
 
 ## Tasks
-Task folder path: `tasks/lessons/html/task_1.0/todo`;
-
-Task folder path: `tasks/lessons/html/task_2.0/todo`; - ANCHORS
-
-Taskurile sunt descrise in fisierul `readme.md`.
-
+TODO
 
 ## Test 
-Fa [acest test](test2) pentru a-ti verifica cunostiintele.
+~~Fa [acest test](test2) pentru a-ti verifica cunostiintele.~~
 
-## Slides
-[TODO]
-
+TODO
 
 
 
-[test1]: wwww.test.com
-[test2]: wwww.test.com
+
+
+[test1]: wwww.google.com
+[test2]: wwww.google.com

@@ -1,0 +1,70 @@
+<!-- Tag-ul <doctype> indica tipul fisierului, in acest caz HTML5 -->
+<!doctype html>
+
+<!-- Tag-ul <html> este root-ul (baza) fisierului tau -->
+<html lang="en">
+
+<!-- Tag-ul <head> contine date despre acest document HTML (numite metadata), nimic din interiorul sau nu va fi afisat -->
+
+<head>
+  <meta charset="utf-8">
+  <title>HTML Task 1.0</title>
+  <meta name="description" content="just some basic html tasks">
+</head>
+
+<!-- Tag-ul <body> tine continutul care trebuie afisat -->
+
+<body>
+  <!-- Tagurile <h1> <h2> (headline) sunt folosite pentru titluri -->
+  <h1>Cel mai mare titlu</h1>
+
+  <!-- Tag-ul <span> in acest caz nu face mare lucru, il vom folosi mai tarziu -->
+  <h2>Un titlu ceva mai mic <span> si contine si span</span></h2>
+
+  <!-- Tag-ul <p> (paragraph) contine un text mai lung -->
+  <p>
+    În zilele noastre, denumirea se referă exclusiv la zona geografică din sudul României moderne, dintre Dunăre,
+    Carpați și râurile Milcov, Putna și Siret.
+    <!-- Tag-ul <br> (break line) introduce o noua linie -->
+    <br>
+    <!-- Tag-ul <a> (anchor) este folosi pentru link-uri -->
+    <a href="https://ro.wikipedia.org/wiki/%C8%9Aara_Rom%C3%A2neasc%C4%83" target="_blank">Țara Românească</a> a existat
+    între secolele al XIV-lea și secolul al XIX-lea timp de mai bine de 500 de ani, ea începându-și existența ca stat
+    independent odată cu Bătălia de la Posada în jur de 10 noiembrie 1330, și încheindu-și existența ca stat (devenit
+    autonom dar tributar Imperiului Otoman) la data de 24 ianuarie/5 februarie 1862, când, după <em>trei ani de
+      uniune</em>
+    personală cu Moldova, s-a unit cu această țară pentru a forma bazele <strong>României moderne</strong>.
+  </p>
+
+
+  <!-- Tag-ul <div> este folosit pentru a marca sau formata anumite sectiuni din pagina -->
+  <!-- Se observa si ca contine attributul "id" -->
+  <div id="touristic-attractions">
+    <h5>Lucruri de vazut in Tara Romaneasca:</h5>
+  </div>
+
+  <!-- O noua sectiune, marcata din nou cu tag-ul <div> -->
+  <div id="main-section">
+    <h4>
+      Da-ti cu parerea despre Tara Romaneasca! (acesta este un h4)
+    </h4>
+    <!-- Tag-ul <form> este folosit pentru a capta date de la utilziator -->
+    <form id="feedback">
+
+
+      <!-- Deobicei, tag-ul <input> vine insotit de <label>, care tine titlul input-ului -->
+      <!-- Retine ca legatura dintre <input> si <label> se face prin valoarea atributelor "id" si "for", "user-name" in cazul asta -->
+      <label for="user-name">Nume</label>
+      <input type="text" id="user-name" placeholder="Intro numele" />
+      <br>
+
+
+      <!-- Tag-ul <textarea> este folosit pentru a capta un text impartit pe mai multe linii -->
+      <textarea type="text" id="feedback" placeholder="Detalii"></textarea>
+    </form>
+  </div>
+
+
+</body>
+
+</html>

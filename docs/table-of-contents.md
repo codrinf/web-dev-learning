@@ -26,9 +26,10 @@
 
 5. Set-up
 
-    1.4 Pregatirea (fork git)
+    1.4 Pregatirea (fork git) [TODO]
     
-6. Jargon
+6. [Jargon][link6.0]
+
 7. Web development
 
     7.1 [Incepe aici][link7.1]
@@ -52,63 +53,30 @@
 
 10. JavaScript
 
-    
-    8.1 De ce Javascript?
-    
-    8.2 Unde si cum vom folosi Javascript?
-    
-    8.3 Concepte de baza
-    
-    8.4 Tipuri de date
-    8.X Objects + arrays
-    8.5 Coercion (data type change)
+    10.1 [Resurse complete][link10.1]
 
-    8.X if + else
-    8.X Bucla for
+    10.2 [Basics][link10.2]:
 
-    8.X Scope
+        - Variabile si tipuri de date
+        - Operatori matematici si logici
+        - if/else
+        - Buclele for, while
 
-    8.6 Functions
+    10.2 [Basics 2][link10.3]:
 
-    8.7 Callback functions (high Order Functions)
+        - Objects
+        - Arrays
+        - Reference vs Primitive types
+        - Functions
 
-    8.X setTimeout, setInterval
+    [TODO: Continue this]
 
-    8.X Call stack
-    8.X Event loop
+2. JSON [TODO]
+2. Web/Browser APIs [TODO]
+2. Soft skills [TODO]
+2. Design [TODO]
 
-    8.X IIFE
-
-    8.X DOM interaction
-
-    8.X Prototype
-
-    8.X Factories + Classes
-    8.X Constructors, new
-
-    
-    8.X this, call, apply and bind
-
-    8.X closure
-
-    8.x Pure Functions, Side Effects and State Mutation
-
-    8.X Modules, namespace
-
-    8.x DOM Manipulations
-
-    8.x Promises
-
-    8.X Recursion
-    8.X Clean Code
-
-
-2. JSON
-2. Web/Browser APIs
-2. Soft skills
-2. Design
-
-2. Pregatirea pentru interviu
+2. Pregatirea pentru interviu [TODO]
 
 [link1.1]: ./1.intro/who-why.md
 [link1.2]: ./1.intro/what-how.md
@@ -123,6 +91,8 @@
 
 [link4.0]: ./4.format/course-format.md
 
+[link6.0]: ./6.jargon/jargon.md
+
 [link7.1]: ./7.web-development/start-here.md
 [link7.2]: ./7.web-development/about-dev.md
 [link7.3]: ./7.web-development/how-internet-works.md
@@ -131,3 +101,9 @@
 [link9.1]: ./9.html-css/html-basics.md
 [link9.2]: ./9.html-css/css-basics.md
 [link9.3]: ./9.html-css/html-css.md
+
+
+[link10.1]: ./10.javascript/resources.md
+[link10.2]: ./10.javascript/basics.md
+[link10.3]: ./10.javascript/basics2.md
+

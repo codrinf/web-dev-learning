@@ -1,6 +1,5 @@
 ## Unde sa incepi:
-Programarea nu e despre a scrie cod ci despre a gandi. Cred ca un mind set potrivit ajuta mult cand vei ajunge la partea in care trebuie sa scrii cod.
-De aceea, chiar inainte de a incepe acest curs, recomand cateva videouri sau cursuri non-tehnice:
+Programarea nu e despre a scrie cod ci despre a gandi. De aceea, chiar inainte de a incepe acest curs, recomand cateva videouri sau cursuri non-tehnice:
 
 * Aceste 3 videouri in care se vorbeste despre logica (in filozofie): 
 [unu](https://www.youtube.com/watch?v=K4ChzesrWKI), 

@@ -1,0 +1,4 @@
+## Concepts covered in this lesson: 
+
+- Closure: https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
+

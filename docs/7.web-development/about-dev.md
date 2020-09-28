@@ -87,10 +87,10 @@ Pe masura ce inveti cuvinte noi, vei putea cere mai mult si intr-un mod mai "ele
 De ce "elegant"?
 
 Pentru ca pentru a scrie cod care sa poata fi citit de calculator, e usor. Dificultatea vine cand codul tau va fi citit de oameni - colegi sau chiar tu. 
-Calculatorului nu-i pasa de spatii libere, nume de variabile sau alte detalii. Oamenilor, da. Oamenii au dificultati in a citi cod "urat". Oamenii pierd multaaaa vreme citind un cod "urat". Oamenii te vor injura pentru un cod "urat".
+Calculatorului nu-i pasa de spatii libere, nume de variabile sau alte detalii. Oamenilor, da. Oamenii au dificultati in a citi cod "urat". Oamenii pierd multa vreme citind un cod "urat". Oamenii te vor injura pentru un cod "urat".
 
 
 ### Despre a scrie (putin) cod
 Ironic, rolul tau de programator este sa scrii cat mai putin cod - atat timp cat programul functioneaza corect.
 
-De ce? Mai putin cod implica mai putine eventuale greseli, este mai rapid de citit, este mai usor de intretinut.
+De ce? Mai putin cod implica mai putine greseli, este mai rapid de citit, este mai usor de intretinut.

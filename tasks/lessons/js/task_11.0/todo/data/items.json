@@ -1,0 +1,56 @@
+{
+  "itemsCount": 3,
+  "items": [
+    {
+      "Names": {
+        "ro": "Burger 1 Super Max",
+        "en": "Burger 1 Super Max"
+      },
+      "Price": 300,
+      "Discount": true,
+      "Modifiers": [
+        {
+          "Names": {
+            "ro": "Pasta de rosii",
+            "en": "Ketchup"
+          },
+          "Price": 50
+        },
+        {
+          "Names": {
+            "ro": "Mustar de Tecuci",
+            "en": "Mustard"
+          },
+          "Price": 50
+        }
+      ]
+    },
+    null,
+    {
+      "UIPRice": -1000
+    },
+    {
+      "Names": {
+        "ro": "Mici",
+        "en": "Smalls"
+      },
+      "Price": 330,
+      "Modifiers": [
+        {
+          "Names": {
+            "ro": "Paine",
+            "en": "Bread"
+          },
+          "Price": 100
+        },
+        {
+          "Names": {
+            "ro": "Mustar de Tecuci",
+            "en": "Mustard"
+          },
+          "Price": 50
+        }
+      ]
+    }
+  ]
+}

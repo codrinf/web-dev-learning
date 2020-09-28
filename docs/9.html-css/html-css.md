@@ -1,7 +1,5 @@
 ## My 2 Cents
-Acest curs nu are ca principal obiectiv HTML si CSS ci Javascript. 
-Cu toate astea, adaug aici o serie de resurse care te vor ajuta in a te specialzia in aceasta directie.
-
+[TODO]
 
 ## Resurse
 ### Video:
