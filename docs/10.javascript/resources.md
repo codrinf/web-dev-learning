@@ -1,7 +1,7 @@
 ## My2Cents
 In caz de nu vrei sa urmaresti structura propusa de mine, mai jos ai resurse complete pentru a invata JS.
 
-Oricare link de mai jos, indiferent daca e video, playlist sau curs in format text te va ajuta sa inveti JS de la A la Z. Ofer mai multe linkuri doar pentru a te ajuta in a gasi modul potrivit tie.
+Oricare link de mai jos, indiferent daca e video, playlist sau curs in format text te va ajuta sa inveti JS de la A la Z. Las mai multe linkuri doar pentru a te ajuta in a gasi modul potrivit tie.
 
 
 ## Resurse

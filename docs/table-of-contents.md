@@ -55,6 +55,10 @@
 
     10.1 [Resurse complete][link10.1]
 
+    10.2 [Istoric][link]
+
+
+
     10.2 [Basics][link10.2]:
 
         - Variabile si tipuri de date
