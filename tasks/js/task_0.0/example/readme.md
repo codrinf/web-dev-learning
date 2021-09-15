@@ -3,8 +3,5 @@
 
 ### Programming languages
 
-
-
-
 ### Special keywords
 

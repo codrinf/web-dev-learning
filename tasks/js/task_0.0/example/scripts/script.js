@@ -9,7 +9,7 @@
 
 // !Remember Objects are mutable, primitive types are immutable
 
-// Question: Primitive types are immutable, because they have no methods attached that can mutate it. Cum adica?
+// Question: Primitive types are immutable, because they have no methods attached that can mutate it. How is that?
 
 
 
