@@ -5,8 +5,10 @@ JS
   - Special keywords
   - JS Types: Primitives
   - JS Types: References Types
+  - Basic operators, math
   - if, for, while, switch, 
-  - == vs ===, Coercion (process of converting value from one type to another)
+  - == vs ===, Coercion (type conversion)
+  - Functions, Functions Expressions
   - High Order functions
   - JS Scope, Context
   - JS Modules (import, export)
@@ -19,15 +21,18 @@ JS
   - Static functions
   - Object advanced: https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12
   - Factory functions
+  - Arrow functions
   - Object.Prototype
   - Classes as functions
   - Object.Prototype
   - Classes 
   - OOP
+  - this
   - Closure
   - ES6 Cool stuff
   - call, apply, bind
   - map, filter, reduce
   - pure functions vs state mutation
   - recursion
+  - Optional chaining '?.'
   
