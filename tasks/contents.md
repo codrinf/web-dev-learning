@@ -3,7 +3,7 @@
 JS
   - Intro + History
   - Special keywords
-  - JS Types: Primitives
+  - JS Types: Primitives Types
   - JS Types: References Types
   - Basic operators, math
   - if, for, while, switch, 
