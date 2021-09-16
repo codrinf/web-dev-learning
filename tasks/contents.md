@@ -3,10 +3,14 @@
 JS
   - Intro + History
   - Special keywords
+
   - JS Types: Primitives Types
   - JS Types: References Types
+
   - Basic operators, math
+  
   - if, for, while, switch, 
+
   - == vs ===, Coercion (type conversion)
   - Functions, Functions Expressions
   - High Order functions
@@ -24,7 +28,6 @@ JS
   - Arrow functions
   - Object.Prototype
   - Classes as functions
-  - Object.Prototype
   - Classes 
   - OOP
   - this
