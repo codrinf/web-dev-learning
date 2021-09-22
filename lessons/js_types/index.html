@@ -1,12 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>JS Testing Task1.0 Types</title>
+  <title>JS Types</title>
+  <script src="../_lib/scripts.js" type="text/javascript"></script>
 </head>
+
 <body>
-  
-  <script src="./script.js" type="text/javascript"></script>
+  <div class="wrapper">
+
+    <nav>
+      <ul>
+        <!-- Load md files: -->
+        <li class="nav-item">
+          Documentatie
+        </li>
+        <li class="nav-item">
+          Resources
+        </li>
+        <li class="nav-item">
+          Homework
+        </li>
+
+
+        <!-- Load html in iframe -->
+        <li class="nav-item" onclick="onExampleClick(1)">
+          Example 1
+        </li>
+        <li class="nav-item" onclick="onExampleClick(2)">
+          Example 2
+        </li>
+        <li class="nav-item" onclick="onExampleClick(3)">
+          Example 3
+        </li>
+        ...
+        <li class="nav-item">
+          Example 5
+        </li>
+      </ul>
+    </nav>
+
+
+    <section class="content">
+
+    </section>
+
+    <iframe id="examples-iframe" src="" frameborder="0"></iframe>
+
+
+  </div>
 </body>
+
 </html>
