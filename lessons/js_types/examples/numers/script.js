@@ -1,5 +1,6 @@
 // Some examples of actions you may perform with numbers (more to come):
 
+
 // We declare 2 variables:
 const a = 21; 
 const b = 3;

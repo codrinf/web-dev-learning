@@ -158,3 +158,7 @@ OUT OF SCOPE
 - Static functions
 - Optional chaining '?.'
 - Event loop
+
+To be evaluated:
+---
+- Math

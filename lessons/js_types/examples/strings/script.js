@@ -1,4 +1,4 @@
-// Some examples of actions you may perform with numbers (more to come):
+// Some examples of actions you may perform with strings (more to come):
 
 // We declare 2 variables:
 const firstName = 'Alex';
