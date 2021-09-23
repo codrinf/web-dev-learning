@@ -1,70 +1,160 @@
-4 oameni, 750 eur / persoana
-3 luni > 12 sapt
-2 sesiuni / sapt (2 ore)
-2 ore / sapt (1 to 1)
-4 ore / sapt > homeworks
+# Table of contents
 
-total: 10 ore / sapt.
+## Summary
+- 4 oameni, 750 EUR / persoana
 
-24 sesiuni
+- 3 luni > 12 sapt
 
-- Intro + Web History: how internet works, html, css, js.
-- Front End, Back End, DB?
-- Roadmap to production
-- Resources
-- HTML Examples/Homework
+- 2 sesiuni / sapt (2 ore)
 
-- HTML + CSS 
-- Main HTML Elements: div, p, h1...h6, section, nav, footer,
-- Forms: input, select, radio, checkbox, textarea
-- CSS Selectors, Selectors Priority
-- Media Queries 
+- 2 ore / sapt (1 to 1)
 
-- DOM <> JS 
-- dev tools
-- document.getElementById
-- addEventListener
-- HTML: onclick, onchange, input.value, 
-- innerHTML, innerText
-- alert, console.log
+- 4 ore / sapt > homeworks
 
-- Special keywords:
-- Basic operators, math
-- JS Types: Primitives Types
+- total: 10 ore / sapt.
 
-- JS Types: References Types (Basics)
-- == vs ===, Coercion (type conversion)
+- 24 sesiuni
 
-- if, if else, switch,
-- for, while,  
+## Sesiunea 1 -> Course intro & HTML basics
 
-- Functions, Functions Expressions, Arrow functions
-- High Order functions, callbacks
+| Prima ora               | A doua ora           |
+| ------------------------|:--------------------:|
+| Intro despre curs       | Ce este HTML-ul?     |
+| Despre FE, BE si DB     | Ce este CSS-ul?      |
+| Career roadmap          | Ce este JavaScript?  |
+| Resurse suplimentare    | HTML live coding     |
+| Web history             | HTML homework        |
+| Ce e internetul         |                      |
 
-- JS Scope, Context
-- JS Modules (import, export)
-- Call Stack
-- Event loop
-- setTimeout, setInterval
-- Promises
-- JSON Files
-- DOM Manipulation
-- Static functions
-- Object advanced: https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12
-- Factory functions
-- Arrow functions
-- Object.Prototype
-- Classes as functions
-- Classes 
-- OOP
-- this
-- Closure
-- ES6 Cool stuff
+## Sesiunea 2 -> Advanced HTML & CSS styling
+
+| Prima ora               | A doua ora           |
+| ------------------------|:--------------------:|
+| HTML Forms              | Selector specificity |
+| Advanced HTML           | CSS Box model        |
+| Cum importam css        | CSS Flex             |
+| CSS basics              | CSS homework         |
+| CSS selectors           |                      |
+| CSS pseudo-classes      |                      |
+
+## Sesiunea 3 -> DOM manipulation
+
+| Prima ora                  | A doua ora             |
+| ---------------------------|:----------------------:|
+| Cum importam JavaScript?   | Cand alteram HTML-ul?  |
+| Ce este Dev Tools?         | JS common events       |
+| Ce sunt window & DOM?      | Ce este console.log?   |
+| Cum ruleaza un fisier .js? | Ce este alert/prompt?  |
+| Cand alteram HTML-ul?      | DOM Homework           |
+
+## Sesiunea 4 -> Basic operations & primitive types
+
+| Prima ora                  | A doua ora             |
+| ---------------------------|:----------------------:|
+| Ce este o variabila        | == vs === Coercion     |
+| Primitive types            | Reference Type         |
+| Number operations          | Type homework          |
+| Math object, parseFloat    |                        |
+| String operations          |                        |
+| boolean evaluations        |                        |
+
+## Sesiunea 5 -> if, if else, switch
+
+| Prima ora                  | A doua ora             |
+| ---------------------------|:----------------------:|
+| Ce este o variabila        | == vs === Coercion     |
+| Primitive types            | Reference Type         |
+| Number operations          | Type homework          |
+| Math object, parseFloat    |                        |
+| String operations          |                        |
+| boolean evaluations        |                        |
+
+## Sesiunea 6 -> if, if else, switch & loops
+
+| Prima ora       | A doua ora   |
+| ----------------|:------------:|
+| If              | for loop     |
+| Else            | while        |
+| Else if         | use cases    |
+| Switch          | homework     |
+| Truthy & Falsy  |              |
+
+## Sesiunea 7 -> Functions & scope
+
+| Prima ora             | A doua ora          |
+| ----------------------|:-------------------:|
+| Functions             | callback            |
+| return                | anonymous functions |
+| Arrow Functions       | Scope, let vs var   |
+| First-class Functions | homework            |
+
+## Sesiunea 8 -> Various useful concepts
+
+| Prima ora                   | A doua ora                  |
+| ----------------------------|:---------------------------:|
+| setTimeout, setInterval     | Deconstruction              |
+| Call Stack                  | Factory functions           |
+| JSON files                  | Object.Prototype            |
+| JS Modules (import, export) | homework                    |
+## Sesiunea 9 -> ES6 and complex operations
+
+| Prima ora                   | A doua ora                  |
+| ----------------------------|:---------------------------:|
+| ES6 Cool stuff              | pure functions              |
+|                             | state mutation              |
+|                             | recursion                   |
+|                             | homework                    |
+
+## Sesiunea 10 -> Promises, async, await
+
+| Prima ora                   | A doua ora                  |
+| ----------------------------|:---------------------------:|
+| asynchronous                | Promises                    |
+| synchronous                 | await                       |
+| fetch                       | resolve, reject             |
+| then, catch                 | homework                    |
+
+## Sesiunea 11 -> OOP & classes
+
+| Prima ora                   | A doua ora                  |
+| ----------------------------|:---------------------------:|
+| OOP                         | Class                       |
+| Factory functions           | this keyword                |
+| classes as functions        | homework                    |
+
+## Sesiunea 12 -> Recap and evaluation
+
+| Prima ora                   | A doua ora                  |
+| ----------------------------|:---------------------------:|
+| Recap                       | Evaluation & discussion   |
+
+## Sesiunile 12 - 24 -> Project from ZERO to HERO
+
+- starting a project from scratch
+- create more than 1 web page
+- create a form
+- add animations
+- importance of clean code and code lint/formatting
+- importance of code encapsulation by functionality (modules)
+- importance of making functionality reusable
+- dynamic HTML and css
+- saving information on localstorage to simulate server behavior
+- add foreign API to application, CORS policy small talk
+- simulate CRUD behavior
+- work with Date object
+- what is Bootstrap
+- how does authentication work?
+- Connect the app to a NodeJS server
+- End course with a functional project
+- Importance of frameworks and libraries and how real development actually looks like
+- Further resources to continue the career path
+
+
+OUT OF SCOPE
+---
 - call, apply, bind
-- map, filter, reduce
-- pure functions vs state mutation
-- recursion
+- Closure
+- [Object advanced](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
+- Static functions
 - Optional chaining '?.'
-- Deconstruction arrays, objects
-
-
+- Event loop
