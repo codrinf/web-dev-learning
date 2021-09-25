@@ -4,6 +4,8 @@ Programming languages all have built-in data structures, but these often differ 
 JavaScript has 5 main primary types:
 `number, string, boolean, undefined, null`
 
+There types are “primitive” because their values can contain only a single thing (be it a string or a number or whatever)
+
 ## Number
 > In example below, `const` adds new variable in our program, `age` is the name of the variable (our choice), `=` assignees a value and `16` is the value.
 ```javascript

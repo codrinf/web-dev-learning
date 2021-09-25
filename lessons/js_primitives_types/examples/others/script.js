@@ -32,5 +32,13 @@ console.log('isTrue1 ', isTrue1);
 const isTrue2 = (12 == 10) || (5 == 5);
 console.log('isTrue ', isTrue2);
 
+// Any Variable declared but not initiated has a value of undefined:
+const myVar;
+console.log('myVar ', myVar);
+
+// A variable is null when it has no value at all
+const myVar = null;
+console.log('myVar ', myVar);
+
 
 
