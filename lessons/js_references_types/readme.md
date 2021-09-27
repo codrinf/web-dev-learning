@@ -72,7 +72,7 @@ console.log('fruits[2] ', fruits[2]); // will log apples
 console.log('fruits[3] ', fruits[3]); // will log undefined, as we don't have a value on position 3
 ```
 
-> Arrays have multiple properties and functions. Some of the basic ones are: `.length`, `.push()`, `.indexOf()`, 
+> Arrays have multiple properties and functions. Some of the basic ones are: `.length`, `.push()`, `.indexOf()`, `.slice()`, `.concat()`. 
 ```javascript
 const myFavoriteNumbers = [];
 console.log('myFavoriteNumbers.length ', myFavoriteNumbers.length) // will log 0, as this is an empty array
@@ -88,7 +88,21 @@ console.log('indexOf9 = ', indexOf9) // will log 1, as element 9 is on position 
 
 const indexOf200 = myFavoriteNumbers.indexOf(200);
 console.log('indexOf200 = ', indexOf200) // will log -1, as there is no 200 element in this array
+
+const colors = ['blue', 'green', 'red', 'white'];
+const color2 = colors.slice(0, 2);
+console.log('color2 = ', color2) // will log ['blue', 'green'];
+
+const numbers1 = [2, 43, 8];
+const numbers2 = [6, 3, 12];
+const allNumbers =  numbers1.concat(numbers2);
+console.log('allNumbers = ', allNumbers); // will log [2, 43, 8, 6, 3, 12]
 ```
+
+
+
+
+
 
 
 
