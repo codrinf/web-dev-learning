@@ -21,6 +21,23 @@ const firstName = 'Vlad';
 const secondName = "Popescu";
 ```
 
+> Strings have multiple properties and methods. Some of the basic ones are: `.length`, `.indexOf()`, `.slice()`, `.toLowerCase()`, `toUpperCase()`, `.replace()`. 
+```javascript
+const myString = 'My name is Jennifer';
+
+console.log('myString.length = ', myString.length) // will log 19, as there are 19 letters in this string
+console.log('myString.indexOf("is") = ', myString.indexOf('is')) // will log 8, as this is the position where "is" starts (first position is 0)
+
+const subString = myString.slice(3, 7);
+console.log('subString ', subString) // will log "name", as slice method cuts a part of the string, starting on position 4, until 7
+
+console.log('myString.toLowerCase = ', myString.toLowerCase()) // will log "my name is jennifer", as toLowerCase method transform each letter in string to lower case
+
+console.log('myString.toUpperCase = ', myString.toUpperCase()) // will log "MY NAME IS JENNIFER", as toUpperCase method transform each letter in string to upper case
+
+console.log('myString replaced = ', myString.replace('Jennifer', 'Mary')) // will log "My name is Mary"
+```
+
 >**Template literals:** are delimited by \` and allows embedded logic.
 >In example below, we have a variable `no` with value of `3400`. A new variable is created, called `id`. It's value will be `EX-2400`.
 ```javascript
@@ -70,11 +87,11 @@ age = false;
 Your program will consist in many of this kind of variables keeping program's data. On top, you will add logic.
 
 
-
 ## Resources:
-* [JavaScript - Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)
 * [Javascript.info Javascript Data Types](https://javascript.info/types)
 * [TutorialRepublic Javascript Data Types](https://www.tutorialrepublic.com/javascript-tutorial/javascript-data-types.php)
+* [Useful String Methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
+
 
 
 

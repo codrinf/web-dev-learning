@@ -23,7 +23,7 @@ const employee = {
   }
 } 
 console.log('employee.firstName ', employee.firstName) // will log Vlad
-console.log('employee ', employee) // will log the hole employee object
+console.log('employee ', employee) // will log the whole employee object
 ```
  
 > An object can be declared empty and it's properties can be added afterwords, as in example below. Also, please note that we access object's values with dot operator but also with square brackets.
@@ -39,7 +39,7 @@ employee.skills = {
     js: false
 };
 console.log('employee.firstName ', employee['firstName']) // will log Vlad
-console.log('employee ', employee) // will log the hole employee object
+console.log('employee ', employee) // will log the whole employee object
 ```
 
 
@@ -52,7 +52,7 @@ An array can be created with square brackets, `[]`.
 ```javascript
 const fruits = ['pears', 'watermelons', 'apples'];
 
-console.log('fruits[0] ', fruits); // will log the hole array
+console.log('fruits[0] ', fruits); // will log the whole array
 console.log('fruits[0] ', fruits[0]); // will log pears
 console.log('fruits[1] ', fruits[1]); // will log watermelons
 console.log('fruits[2] ', fruits[2]); // will log apples
@@ -72,7 +72,7 @@ console.log('fruits[2] ', fruits[2]); // will log apples
 console.log('fruits[3] ', fruits[3]); // will log undefined, as we don't have a value on position 3
 ```
 
-> Arrays have multiple properties and functions. Some of the basic ones are: `.length`, `.push()`, `.indexOf()`, `.slice()`, `.concat()`. 
+> Arrays have multiple properties and methods. Some of the basic ones are: `.length`, `.push()`, `.indexOf()`, `.slice()`, `.concat()`. 
 ```javascript
 const myFavoriteNumbers = [];
 console.log('myFavoriteNumbers.length ', myFavoriteNumbers.length) // will log 0, as this is an empty array
@@ -99,10 +99,12 @@ const allNumbers =  numbers1.concat(numbers2);
 console.log('allNumbers = ', allNumbers); // will log [2, 43, 8, 6, 3, 12]
 ```
 
+## Reference types vs primitives types:
+In JavaScript, a variable may store two types of values: **primitive** and **reference**.
 
+If the value is a primitive value, when you access the variable, you manipulate the actual value stored in that variable. In other words, the variable that stores a primitive value is accessed by **value**.
 
-
-
+Unlike a primitive value, when you manipulate an object, you work on the reference of that object, rather than the actual object. It means a variable that stores an object is accessed by **reference**.
 
 
 
@@ -110,6 +112,8 @@ console.log('allNumbers = ', allNumbers); // will log [2, 43, 8, 6, 3, 12]
 * [Javascript.info Object Data Type](https://javascript.info/object)
 * [The Net Ninja: Modern JavaScript Tutorial #5 - Objects](https://www.youtube.com/watch?v=X0ipw1k7ygU)
 * [Javascript.info Array Data Type](https://javascript.info/array)
-
+* [JavascriptTutorial.net: JavaScript Primitive vs. Reference Values](https://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
+* [JavaScript - Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)
+* [codeburst.io: Explaining Value vs. Reference in Javascript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 
 

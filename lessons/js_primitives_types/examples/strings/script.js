@@ -18,7 +18,6 @@ console.log('fullNameWithSpaces = ', fullNameWithSpaces);
 const difference = firstName - middleName;
 console.log('difference ', difference);
 
-
 // Using Template Literals is easier to concatenate variables:
 const fullNameLiteral = `${firstName}-${middleName}-${lastName}`;
 console.log('fullNameLiteral = ', fullNameLiteral);
