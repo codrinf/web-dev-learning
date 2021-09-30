@@ -138,7 +138,7 @@
 | ----------------------------|:---------------------------:|
 | Recap                       | Evaluation & discussion     |
 
-## Sesiunile 13 - 24 -> Project from ZERO to HERO
+## Sesiunile 13 - 23 -> Project from ZERO to HERO
 
 - starting a project from scratch
 - create more than 1 web page
@@ -158,6 +158,12 @@
 - End course with a functional project
 - Importance of frameworks and libraries and how real development actually looks like
 - Further resources to continue the career path
+
+
+## Sesiunea 24
+- CV building tips
+- Javascript interview questions
+- Other tips
 
 
 OUT OF SCOPE
