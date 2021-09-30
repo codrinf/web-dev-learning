@@ -15,7 +15,7 @@
 
 - 24 sesiuni
 
-## Sesiunea 1 -> Course intro & HTML basics
+## Sesiunea 0 -> Course intro & HTML basics
 
 | Prima ora               | A doua ora           |
 | ------------------------|:--------------------:|
@@ -26,7 +26,7 @@
 | Web history             | HTML homework        |
 | Ce e internetul         |                      |
 
-## Sesiunea 2 -> Advanced HTML & CSS styling
+## Sesiunea 1 -> Advanced HTML & CSS styling
 
 | Prima ora               | A doua ora           |
 | ------------------------|:--------------------:|
@@ -37,7 +37,7 @@
 | CSS selectors           |                      |
 | CSS pseudo-classes      |                      |
 
-## Sesiunea 3 -> DOM manipulation
+## Sesiunea 2 -> DOM manipulation
 
 | Prima ora                  | A doua ora             |
 | ---------------------------|:----------------------:|
@@ -47,39 +47,36 @@
 | Cum ruleaza un fisier .js? | Ce este alert/prompt?  |
 | Cand alteram HTML-ul?      | DOM Homework           |
 
-## Sesiunea 4 -> Basic operations & primitive types
+## Sesiunea 3 -> Basic operations & primitive types
 
 | Prima ora                  | A doua ora             |
 | ---------------------------|:----------------------:|
-| Ce este o variabila        | == vs === Coercion     |
-| Primitive types            | Reference Type         |
-| Number operations          | Type homework          |
+| Ce este o variabila        | String operations      |
+| Primitive types            | boolean evaluations    |
+| Number operations          | Homework               |
 | Math object, parseFloat    |                        |
-| String operations          |                        |
-| boolean evaluations        |                        |
 
-## Sesiunea 5 -> if, if else, switch
+## Sesiunea 4 -> Reference Types
 
-| Prima ora                  | A doua ora             |
-| ---------------------------|:----------------------:|
-| Ce este o variabila        | == vs === Coercion     |
-| Primitive types            | Reference Type         |
-| Number operations          | Type homework          |
-| Math object, parseFloat    |                        |
-| String operations          |                        |
-| boolean evaluations        |                        |
+| Prima ora                  | A doua ora               |
+| ---------------------------|:------------------------:|
+| == vs === Coercion         | Reference vs Primitives  |
+| JSON.stringify()           | Homework                 |
+| JSON.parse()               |                          |
+| Reference Types            |                          |
 
-## Sesiunea 6 -> if, if else, switch & loops
+## Sesiunea 5 -> if, if else, switch & loops
 
 | Prima ora       | A doua ora   |
 | ----------------|:------------:|
 | If              | for loop     |
 | Else            | while        |
 | Else if         | use cases    |
-| Switch          | homework     |
+| and, or         | homework     |
+| Switch          |              |
 | Truthy & Falsy  |              |
 
-## Sesiunea 7 -> Functions & scope
+## Sesiunea 6 -> Functions & scope
 
 | Prima ora             | A doua ora          |
 | ----------------------|:-------------------:|
@@ -87,6 +84,12 @@
 | return                | anonymous functions |
 | Arrow Functions       | Scope, let vs var   |
 | First-class Functions | homework            |
+
+## Sesiunea 7 -> Small Demo Project
+| Prima ora             | A doua ora          |
+| ----------------------|:-------------------:|
+| A "recap" project     | Homework:           |
+|                       | Continue Project    |
 
 ## Sesiunea 8 -> Various useful concepts
 
@@ -96,6 +99,11 @@
 | Call Stack                  | Factory functions           |
 | JSON files                  | Object.Prototype            |
 | JS Modules (import, export) | homework                    |
+
+* Cred ca JSON files ar trebui pus cu Promises (altfel nu vad cum il explici)
+* Nu as intra in Deconstruction
+* As scoate Factory functions de aici, e si mai jos
+
 ## Sesiunea 9 -> ES6 and complex operations
 
 | Prima ora                   | A doua ora                  |
@@ -122,13 +130,15 @@
 | Factory functions           | this keyword                |
 | classes as functions        | homework                    |
 
+* As scoate classes as functions (fiind un concept folosit temporar in istoria JS)
+
 ## Sesiunea 12 -> Recap and evaluation
 
 | Prima ora                   | A doua ora                  |
 | ----------------------------|:---------------------------:|
-| Recap                       | Evaluation & discussion   |
+| Recap                       | Evaluation & discussion     |
 
-## Sesiunile 12 - 24 -> Project from ZERO to HERO
+## Sesiunile 13 - 24 -> Project from ZERO to HERO
 
 - starting a project from scratch
 - create more than 1 web page
