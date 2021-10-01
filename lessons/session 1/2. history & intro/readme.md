@@ -24,7 +24,7 @@ Asa cum Microsoft Word stie sa citeasca si sa scrie fisiere `.doc`, un browser e
 ## History of Web Development
 1. In momentul zero al internetului nu exista Web Development, pentru simplul fapt ca nu se transferau decat fisiere in alte formate decat `.html, .css sau .js`
 2. In '90 apar primele pagini web, in format `.html` si contin in mare parte text (think about [https://en.wikipedia.org/](https://en.wikipedia.org/)).
-3. Ceva mai tarziu apar CSS si Javascript aducand o complexitate mai mare paginilor - in special vizuala. (think about myspace.com)
+3. Ceva mai tarziu apar CSS si Javascript aducand o complexitate mai mare paginilor - in special vizuala. (think about hi5.com)
 3. Paginile web devin mai complexe, omenirea experimenteaza cu Flash. 
 4. Paginile web devin interactive si dinamice, Javascript creste in popularitate.
 5. Serverele la randul lor, nu mai sunt doar niste "depozite" de pagini web statice, acum sunt aplicatii puternice care manevreaza date. 
