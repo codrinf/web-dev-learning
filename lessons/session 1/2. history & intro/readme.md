@@ -12,12 +12,12 @@ Prin '80 au loc mai multe standardizari, printre care:
 - Felul cum informatiile se trimit: protocolul TCP/IP)
 - Formatul fisierelor: .html, .css, .js, etc
 
-Odata cu "democratizarea" internetului, apar serverele: calculatoare asemanatoare cu cele ale noastre de acasa, doar cu un procesor mai puternic, o memorie sau un HDD mai mare, etc.
+Odata cu "democratizarea" internetului, apar serverele: calculatoare asemanatoare cu cele ale noastre de acasa, doar cu un procesor mai puternic, o memorie si un HDD mai mare, etc.
 
 Cand accesam un site de pe calculatorul personal, accesam un fisier (mai multe) de pe un server. Evident, este o explicatie simplificata pentru moment. 
 
 
-## Browser
+## Browsers
 Asa cum Microsoft Word stie sa citeasca si sa scrie fisiere `.doc`, un browser este un program capabil sa acceseze, citesca si sa interpreteze, printre altele, fisiere `.html, .css sau .js`.
 
 
@@ -28,7 +28,7 @@ Asa cum Microsoft Word stie sa citeasca si sa scrie fisiere `.doc`, un browser e
 3. Paginile web devin mai complexe, omenirea experimenteaza cu Flash. 
 4. Paginile web devin interactive si dinamice, Javascript creste in popularitate.
 5. Serverele la randul lor, nu mai sunt doar niste "depozite" de pagini web statice, acum sunt aplicatii puternice care manevreaza date. 
-6. Multe din aplicatiile clasice se muta in "cloud", web developmentul continua sa creasca si sa atraga diferite tehnologii, baze de date, programatori.
+6. Multe din aplicatiile clasice se muta in cloud, web developmentul continua sa creasca si sa atraga diferite tehnologii, baze de date, programatori.
 
 
 
