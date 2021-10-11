@@ -30,12 +30,12 @@
 
 | Prima ora               | A doua ora           |
 | ------------------------|:--------------------:|
+| HTML Basics             | CSS pseudo-classes   |
 | HTML Forms              | Selector specificity |
 | Advanced HTML           | CSS Box model        |
 | Cum importam css        | CSS Flex             |
 | CSS basics              | CSS homework         |
 | CSS selectors           |                      |
-| CSS pseudo-classes      |                      |
 
 ## Sesiunea 2 -> DOM manipulation
 
